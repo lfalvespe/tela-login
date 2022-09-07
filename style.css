@@ -54,18 +54,18 @@ section {
 .formulario h1 {
     background-color: rgb(252, 159, 19);
     padding: 3px;
-    box-shadow: inset 0px 0px 8px white;
+    box-shadow: inset 0px 0px 8px rgba(0, 0, 0, 0.836);
     color: rgb(33, 1, 65);
     font-size: 1.7em;
 }
 
 .formulario > p {
     margin-top: 20px;
-    font-size: 1.7em;
+    font-size: 1.8em;
 }
 
 label {
-    font-size: 1.3em;
+    font-size: 1.4em;
 }
 
 #email {
