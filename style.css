@@ -42,7 +42,7 @@ section {
 }
 
 .formulario {
-    background-image: linear-gradient(to right, navy, black) ;
+    background-image: linear-gradient(45deg, rgb(4, 4, 105), black) ;
     width: 270px;
     height: 270px;
     border-radius: 0px 0px 20px 20px;
