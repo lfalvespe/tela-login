@@ -1,0 +1,109 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    font-size: .8em;
+    font-family: 'Great Vibes', 'cursive';
+    background-image: linear-gradient(45deg, rgb(252, 159, 19), rgba(11, 11, 34, 0.838));
+}
+
+section {
+   
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.359);
+  
+}
+
+.img {
+   background-image: url(imagens/building.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 270px;
+   height: 270px;
+   border-radius: 20px 20px 0px 0px;
+   border-bottom: 1px solid rgb(252, 159, 19);
+  
+}
+
+.formulario {
+    background-image: linear-gradient(to right, rgb(13, 1, 24), black) ;
+    width: 270px;
+    height: 270px;
+    border-radius: 0px 0px 20px 20px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.349);
+}
+
+.formulario h1 {
+    background-color: rgb(252, 159, 19);
+    padding: 3px;
+    box-shadow: inset 0px 0px 8px white;
+    color: rgb(33, 1, 65);
+    font-size: 1.7em;
+}
+
+.formulario > p {
+    margin-top: 20px;
+    font-size: 1.7em;
+}
+
+label {
+    font-size: 1.3em;
+}
+
+#email {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#email, #senha {
+    background-color: rgb(181, 181, 181);
+    margin-left: 10px;
+    width: 160px;
+    padding: 2px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.379);
+    font-size: 1em;  
+}
+
+#btn_entrar {
+    padding: 5px;
+    width: 120px;
+    height: 30px;
+    margin-top: 28px;
+    color: white;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.349);
+    background-image: linear-gradient(45deg, rgb(252, 159, 19), rgb(8, 8, 26));
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#btn_entrar:hover {
+    box-shadow: inset 0px 0px 8px rgb(252, 159, 19);
+    background-color: rgb(252, 159, 19);
+    background-image: none;
+}
+
+.msg {
+    margin-top: 15px;
+    color: rgb(252, 159, 19);
+    font-size: .9em;
+    font-family: Arial, Helvetica, sans-serif;
+}
