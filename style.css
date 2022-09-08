@@ -79,7 +79,7 @@ label {
 
 #email, #senha {
     background-color: rgb(181, 181, 181);
-    width: 170px;
+    width: 160px;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.379);
     font-size: 1em;  
     border-radius: 10px;
