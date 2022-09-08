@@ -59,6 +59,7 @@ section {
     text-shadow: 2px 2px 3px black;
     font-size: 1.7em;
     letter-spacing: 4px;
+    font-weight: bold;
 }
 
 .formulario > p {
