@@ -97,6 +97,9 @@ label {
     border: none;
     border-radius: 10px;
     cursor: pointer;
+    letter-spacing: 3px;
+    font-family: 'Great Vibes', 'cursive';
+    font-size: 1.6em;
 }
 
 #btn_entrar:hover {
