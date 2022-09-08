@@ -121,16 +121,12 @@ label {
 
 footer {
     padding: 5px;
-    margin-top: 10px;
+    margin-top: 27px;
     text-align: center;
     color: white;
     font-size: 1.3em;
     text-shadow: 2px 2px 3px black;
     letter-spacing: 2px;
-}
-
-footer p {
-    margin-top: 14px;
 }
 
 footer a {
