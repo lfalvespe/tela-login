@@ -13,12 +13,12 @@ function fundoEmailBranco() {
 		email.style.backgroundColor = 'white'
 }
 function fundoEmailCinza() {
-		email.style.backgroundColor = 'rgb(181, 181, 181)'
+		email.style.backgroundColor = 'rgb(205, 205, 205)'
 }
 
 function fundoSenhaBranco() {
 		senha.style.backgroundColor = 'white'
 }
 function fundoSenhaCinza() {
-		senha.style.backgroundColor = 'rgb(181, 181, 181)'
+		senha.style.backgroundColor = 'rgb(205, 205, 205)'
 }
