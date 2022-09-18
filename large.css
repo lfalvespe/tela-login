@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+@media screen and (min-width:600px) and (max-width:1000px) {
+
+
+section {
+		flex-direction: row;
+	}
+
+	.img {
+		width: 40vw;
+		height: 40vh;
+		border-radius: 20px 0px 0px 20px;
+	 }
+
+	 .formulario {
+		overflow: hidden;
+		width: 40vw;
+		height: 40vh;
+		border-radius: 0px 20px 20px 0px;
+	}
+
+	.formulario h1 {
+		
+	}
+
+	.formulario > p {
+		margin-top: 75px;
+	}
+
+	#btn_entrar {
+		margin-top: 48px;
+	}
+
+}
+
+@media screen and (min-width:1000px) {
+
+
+	.img {
+		width: 370px;
+		height: 370px;
+		border-radius: 20px 0px 0px 20px;
+	}
+
+	.formulario {
+		overflow: hidden;
+		width: 370px;
+		height: 370px;
+		border-radius: 0px 20px 20px 0px;
+	}
+
+	.formulario > p {
+		margin-top: 75px;
+	}
+
+	#btn_entrar {
+		margin-top: 48px;
+	}
+
+}
+
+@media screen and (max-height:600px) {
+	
+	.img {
+		width: 40vw;
+		height: 60vh;
+		border-radius: 20px 0px 0px 20px;
+	}
+
+	.formulario {
+		overflow: hidden;
+		width: 40vw;
+		height: 60vh;
+		border-radius: 0px 20px 20px 0px;
+	}
+
+	.formulario > p {
+		margin-top: 8px;
+	}
+	
+	#btn_entrar {
+		margin-top: 10px;
+	}
+
+	footer {
+		padding: 5px;
+		margin-top: 5px;
+	}
+
+	#email {
+		margin-top: 5px;
+		margin-bottom: 10px;
+	}
+
+	.msg {
+		margin-top: 10px;
+	}
+}
