@@ -11,6 +11,6 @@ Tela de login reponsiva feita em HTML, CSS e Javascript.
 
 
 <img src = "prints/print.png" height="350">
-<img src = "prints/print1.PNG" height="300">
+<img src = "prints/print1.PNG" height="350">
 
 </div>
