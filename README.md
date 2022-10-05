@@ -11,3 +11,4 @@ Tela de login feita em HTML, CSS e Javascript.
 
 
 <img src = "prints/print.png" width="270"></div>
+<img src = "prints/print1.png" height="300"></div>
