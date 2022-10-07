@@ -60,7 +60,7 @@ section {
 
 }
 
-@media screen and (max-height:400px) {
+@media screen and (max-height:250px) {
 	
 	.img {
 		width: 40vw;
