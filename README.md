@@ -1,7 +1,6 @@
 # Tela de login
 
-
-Tela de login reponsiva feita em HTML, CSS e Javascript.
+Reponsiva, feita em HTML, CSS e Javascript.
 
 <br>
 
