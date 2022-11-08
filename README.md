@@ -7,7 +7,7 @@ Reponsiva, feita em HTML, CSS e Javascript.
 <p>Acesse aqui: <a href ="http://lfalvespe.github.io/tela-login">http://lfalvespe.github.io/tela-login</a></p>
 
 
-<img src = "prints/print.png" height="350">
-<img src = "prints/print1.PNG" height="350">
+<img src = "prints/print.png" height="340">
+<img src = "prints/print1.PNG" height="340">
 
 </div>
